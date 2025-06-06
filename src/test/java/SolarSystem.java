@@ -7,6 +7,12 @@ public class SolarSystem {
         BB.Sun = "1";
 
         System.out.println("Solar system is Ready");
+
+
+        FeatureSun Xros=new FeatureSun();
+        Xros.temp="34324k";
+        Xros.Color="green";
+        Xros.Radius="34234234324miles";
     }
 
 }
