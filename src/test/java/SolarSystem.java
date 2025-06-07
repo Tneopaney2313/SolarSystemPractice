@@ -13,6 +13,13 @@ public class SolarSystem {
         Xros.temp="34324k";
         Xros.Color="green";
         Xros.Radius="34234234324miles";
+
+        Planet2 Dron=new Planet2();
+        Dron.color="blue";
+        Dron.name="Dron";
+        Dron.radius=1000;
+
+
     }
 
 }
