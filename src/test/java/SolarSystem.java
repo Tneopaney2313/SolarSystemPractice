@@ -14,10 +14,19 @@ public class SolarSystem {
         Xros.Color="green";
         Xros.Radius="34234234324miles";
 
+
         Planet1 Done = new Planet1();
         Done.name = "Earth";
         Done.color = "Blue";
         Done.size = "Medium";
+
+        Planet2 Dron=new Planet2();
+        Dron.color="blue";
+        Dron.name="Dron";
+        Dron.radius=1000;
+
+
+
     }
 
 }
