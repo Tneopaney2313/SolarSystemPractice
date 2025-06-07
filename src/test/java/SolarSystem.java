@@ -13,6 +13,11 @@ public class SolarSystem {
         Xros.temp="34324k";
         Xros.Color="green";
         Xros.Radius="34234234324miles";
+
+        Planet1 Done = new Planet1();
+        Done.name = "Earth";
+        Done.color = "Blue";
+        Done.size = "Medium";
     }
 
 }
